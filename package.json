@@ -1,0 +1,9 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "init nodejs project",
+  "main": "index.js",
+  "repository": "git@github.com:PhuPT02/NodeServer.git",
+  "author": "Phu <thinhphu1996@gmail.com>",
+  "license": "MIT"
+}
